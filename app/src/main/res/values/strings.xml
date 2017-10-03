@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EmentUA</string>
+    <string name="action_settings">Settings</string>
+    <string name="food_menus_endpoint" templateMergeStrategy="preserve" translatable="false">http://services.web.ua.pt/sas/ementas?date=week&amp;format=json</string>
+    <string name="label_get_menus">Get menus</string>
+</resources>
